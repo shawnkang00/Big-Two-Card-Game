@@ -1,4 +1,4 @@
-# General game rules
+## General game rules
 - Please refer to https://www.pagat.com/climbing/bigtwo.html for a detailed description of the Big Two card game
 - To simplify the implementation, I've adopted the following rules:
   - A standard 52 card pack is used
