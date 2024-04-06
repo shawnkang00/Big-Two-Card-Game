@@ -1,3 +1,8 @@
+## About the game
+- This is a Java implementation of a popular Cantonese card game called Big Two
+- There are some minor modifications to the original rules for better experience
+- The game has a GUI and it also supports multiplayer mode
+
 ## General game rules
 - Please refer to https://www.pagat.com/climbing/bigtwo.html for a detailed description of the Big Two card game
 - To simplify the implementation, I've adopted the following rules:
